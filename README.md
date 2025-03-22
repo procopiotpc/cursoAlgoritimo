@@ -1,5 +1,6 @@
 # cursoAlgoritimo
 
+## Github:
 ## Tipos de dados:
 ## Entrada e saída de Dados:
 ## Estrutura de decisão (if - switch):
